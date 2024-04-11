@@ -49,6 +49,9 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 - [![Medium](https://img.shields.io/badge/Medium-Profile-blue?logo=medium)](https://medium.com/@parodkarvaishnavi)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/24236191/vaishnavi-parodkar)
+- [![Hackerrank](https://img.shields.io/badge/Hackerrank-Profile-blue?logo=hackerrank)](https://www.hackerrank.com/profile/vaishanvi_1112)
+- [![Leetcode](https://img.shields.io/badge/Leetcode-Profile-blue?logo=leetcode)](https://leetcode.com/parodkarvaishnavi/)
+- [![CodeChef](https://img.shields.io/badge/Codechef-Profile-blue?logo=codechef)](https://www.codechef.com/users/vaishnavi_1112)
  
 ## 📫 Let's Connect
 
