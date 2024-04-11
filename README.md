@@ -47,8 +47,7 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 ## 🌐 Find Me Online
 
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/)
-- [![Medium](https://img.shields.io/badge/Medium-Profile-blue?logo=medium)](https://vaishnaviparodkar.medium.com/)
+- [![Medium](https://img.shields.io/badge/Medium-Profile-blue?logo=medium)](https://medium.com/@parodkarvaishnavi)
  
 ## 📫 Let's Connect
 
