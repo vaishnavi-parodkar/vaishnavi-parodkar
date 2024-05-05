@@ -46,7 +46,10 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 [![](https://visitcount.itsvg.in/api?id=vaishnavi-parodkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Find Me Online
-
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vaishnavi-parodkar-4a1b8b28a)
+- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vaishnaviparodkar)
+- [![DevCommunity](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vaishnavi_parodkar)
+- [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vaishnavi_p/)
 - [![Medium](https://img.shields.io/badge/Medium-Profile-blue?logo=medium)](https://medium.com/@parodkarvaishnavi)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/24236191/vaishnavi-parodkar)
 - [![Hackerrank](https://img.shields.io/badge/Hackerrank-Profile-blue?logo=hackerrank)](https://www.hackerrank.com/profile/vaishanvi_1112)
