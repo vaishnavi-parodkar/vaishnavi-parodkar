@@ -2,16 +2,16 @@
 
 **Software Engineer | Full Stack Developer In Making**
 
-Welcome to my GitHub profile! I'm driven by a passion for harnessing technology to create pioneering solutions, with a particular focus on web development and systems programming. Equipped with a robust proficiency in HTML, CSS, and C, I bring a versatile skill set to the table. I'm eager to delve deeper into cutting-edge projects and actively contribute to the ever-evolving landscape of technology.
+Welcome to my GitHub profile! I'm driven by a passion for harnessing technology to create pioneering solutions, with a particular focus on web development and systems programming. Equipped with a robust proficiency in HTML, CSS, JavaScript, C++, ReactJS and C, I bring a versatile skill set to the table. I'm eager to delve deeper into cutting-edge projects and actively contribute to the ever-evolving landscape of technology.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, JavaScript
+- **Languages**: C++, C, JavaScript
 - **Markup & Styling**: HTML, CSS
 - **Frameworks**: ReactJS
 - **Version Control**: Git, GitHub
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## 🚀 What I've Worked On
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 ## 🌱 I’m currently Learning
 
 - Delving into the fundamentals of ReactJS
-- Enhancing my skills in Data Structures and Algorithms (DSA) with C
+- Enhancing my skills in Data Structures and Algorithms (DSA) with C++
  
 ## 🌱 What I'm Eager to Learn Next
 
@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavi-parodkar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaishanavi-parodkar&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-parodkar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-parodkar&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-parodkar&theme=default&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
