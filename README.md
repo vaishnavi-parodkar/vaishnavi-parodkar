@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
  
 ## 📫 Let's Connect
 
-I'm keen on collaborating on interesting projects and discussing innovative ideas. Feel free to contact me with [email](mailto:parodkarvaishnavi@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/vaishnavi-parodkar-4a1b8b28a)!
+I'm keen on collaborating on interesting projects and discussing innovative ideas. Feel free to contact me with [email](mailto:vaishnaviparodkar@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/vaishnavi-parodkar-4a1b8b28a)!
 
 Together, let's forge ahead and shape the future. 
 
