@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 - Developed Parking lot management static website using HTML/CSS
 - Developed Ecommerce website using ReactJS
 - Developed Survey Form using HTML/CSS
+- Developed Car Rental System using C++
+- Developed SDG4-quality-education-website using HTML/CSS
+- Developed Vault to Learn website using HTML/CSS/Javascript and Database
 
 ## 🌱 I’m currently Learning
 
