@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 ## 📊 GitHub Stats
 
+![Visitor Count](https://komarev.com/ghpvc/?username=vaishnavi-parodkar&color=blue)
+
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavi-parodkar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-parodkar&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-parodkar&theme=default&hide_border=false&layout=compact)
