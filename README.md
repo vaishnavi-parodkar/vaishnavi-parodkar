@@ -15,17 +15,22 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 ## 🚀 What I've Worked On
 
-- Developed Parking lot management static website using HTML/CSS
-- Developed Ecommerce website using ReactJS
-- Developed Survey Form using HTML/CSS
-- Developed Car Rental System using C++
-- Developed SDG4-quality-education-website using HTML/CSS/Javascript
-- Developed Vault to Learn website using HTML/CSS/Javascript and Database
+- **Internship Management Website** – Built using *PHP* and *MySQL*  
+- **TV Shows Website** – Built using *HTML5, CSS3, JavaScript, ReactJS* and *API integration*  
+- **Personal Portfolio Website** – Built using *ReactJS* and *CSS*  
+- **Goa Heritage Preservation Website** – Built using *HTML, CSS, JavaScript*  
+- **Parking Lot Management Website** – Static website using *HTML, CSS*  
+- **E-commerce Website** – Built using *ReactJS* and *CSS*  
+- **Survey Form** – Developed using *HTML, CSS*  
+- **Car Rental System** – Console-based project using *C++*  
+- **SDG4 Quality Education Website** – Built using *HTML, CSS, JavaScript*  
+- **Vault to Learn Website** – Built using *HTML, CSS, JavaScript* with *SQLite database*  
+
 
 ## 🌱 I’m currently Learning
 
 - Delving into the fundamentals of ReactJS
-- Enhancing my skills in Data Structures and Algorithms (DSA) with C++
+- Enhancing my skills in Data Structures and Algorithms (DSA) with C++ and Java
  
 ## 🌱 What I'm Eager to Learn Next
 
