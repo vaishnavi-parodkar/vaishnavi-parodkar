@@ -54,6 +54,9 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi-parodkar&theme=default&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 My Holopin Badges
+[![Holopin Badges](https://holopin.me/vaishnaviparodkar)](https://holopin.io/@vaishnaviparodkar)
+
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=vaishnavi-parodkar&limit=5&theme=default&combine_all_yearly_contributions=true)
