@@ -54,7 +54,20 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi-parodkar&theme=default&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 My Holopin Badges
+## 👩‍💻 Open Source Journey  
+
+- 🌟 **GirlScript Summer of Code 2025 (GSSoC'25) – Tech Contributor**  
+  Actively contributing to open-source projects.  
+  Exploring exciting repositories, learning teamwork, and enhancing coding practices.  
+
+- 🌸 **Hacktoberfest 2025 Contributor**  
+  Participating in the global month-long celebration of open-source software.  
+  Contributing to meaningful projects, improving existing codebases, and spreading the spirit of collaboration.  
+
+![GSSoC Badge](https://img.shields.io/badge/GSSoC'25-Tech%20Contributor-ff69b4?style=for-the-badge&logo=github)
+![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
+
+## 🏆 Hacktoberfest 2025 Badges 
 [![Holopin Badges](https://holopin.me/vaishnaviparodkar)](https://holopin.io/@vaishnaviparodkar)
 
 ## 🔝 Top Contributed Repo
