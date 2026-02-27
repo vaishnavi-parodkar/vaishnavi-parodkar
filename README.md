@@ -50,11 +50,15 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavi-parodkar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-parodkar&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-parodkar&theme=default&hide_border=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaishnavi-parodkar&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=vaishnavi-parodkar&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 
 ## 👩‍💻 Open Source Journey  
 
