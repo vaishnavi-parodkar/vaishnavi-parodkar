@@ -1,10 +1,14 @@
 # Hi there! 👋 I'm Vaishnavi Parodkar
 
-**Software Engineer | Full Stack Developer In Making**
+**Software Engineer | Full Stack Developer**
 
-🌐 **Portfolio Website:** [https://portfolio-link.vercel.app](https://portfolio-website-two-ruby-81.vercel.app/)
+🌐 **Portfolio Website:** [https://portfolio-website-two-ruby-81.vercel.app/](https://portfolio-website-two-ruby-81.vercel.app/)
 
-Welcome to my GitHub profile! I'm driven by a passion for harnessing technology to create pioneering solutions, with a particular focus on web development and systems programming. Equipped with a robust proficiency in HTML, CSS, JavaScript, C++, ReactJS and C, I bring a versatile skill set to the table. I'm eager to delve deeper into cutting-edge projects and actively contribute to the ever-evolving landscape of technology.
+I'm a software engineer focused on building clean, user-focused web applications. I enjoy crafting responsive UIs with React and JavaScript, and I'm actively expanding into full-stack development.
+
+## 🚀 My GitRoll Profile
+
+<img src="https://gitroll.io/api/badges/profiles/v1/uf5TpUYiKp5P6aZrrA8kKkXVN6Hs1?theme=dracula" alt="GitRoll" width="380"/>
 
 ## 🔧 Technologies & Tools
 
@@ -24,11 +28,11 @@ Welcome to my GitHub profile! I'm driven by a passion for harnessing technology 
 
 - **Internship Management Website** – Built using *PHP, MySQL, CSS* and *Bootstrap*  
 - **TV Shows Website** – Built using *HTML, CSS, JavaScript, ReactJS* and *API integration*  
-- **Personal Portfolio Website** – Built using *ReactJS* and *CSS*  
+- **MediLookUp** – Built using *ReactJS, Vite, Tailwind CSS, Groq API* and *OpenFDA API*
 - **Goa Heritage Preservation Website** – Built using *HTML, CSS, JavaScript*  
 - **Parking Lot Management Website** – using *React.js, Bootstrap, CSS*  
 - **E-commerce Website** – Built using *ReactJS* and *CSS*  
-- **Survey Form** – Developed using *HTML, CSS*  
+- **PDF Summarizer** – Developed using *HTML, CSS, JavaScript, ReactJS, HuggingFace API*  
 - **Car Rental System** – Console-based project using *C++*  
 - **SDG4 Quality Education Website** – Built using *HTML, CSS, JavaScript*  
 - **Vault to Learn Website** – Built using *HTML, CSS, JavaScript* with *SQLite database*  
