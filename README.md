@@ -58,12 +58,11 @@ I'm a Computer Engineering student and aspiring software engineer focused on bui
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavi-parodkar&theme=default" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaishnavi-parodkar&theme=default" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavi-parodkar&theme=default" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaishnavi-parodkar&theme=default" width="35%" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vaishnavi-parodkar&theme=default&hide_border=false" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=vaishnavi-parodkar&theme=default&hide_border=false" width="60%" />
 </p>
 
 
