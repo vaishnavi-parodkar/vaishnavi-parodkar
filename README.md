@@ -4,7 +4,7 @@
 
 🌐 **Portfolio Website:** [https://portfolio-website-two-ruby-81.vercel.app/](https://portfolio-website-two-ruby-81.vercel.app/)
 
-I'm a software engineer focused on building clean, user-focused web applications. I enjoy crafting responsive UIs with React and JavaScript, and I'm actively expanding into full-stack development.
+I'm a Computer Engineering student and aspiring software engineer focused on building clean, responsive, and user-focused applications. I work across frontend and backend technologies, with hands-on experience in ReactJS, Java, Spring Boot, JavaScript, PHP, MySQL, and REST APIs. I'm continuously strengthening my problem-solving and DSA skills while exploring full-stack development and modern software engineering practices.
 
 ## 🚀 My GitRoll Profile
 
@@ -12,15 +12,17 @@ I'm a software engineer focused on building clean, user-focused web applications
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C++, C, JavaScript, PHP, Java, Python
-- **Markup & Styling**: HTML, CSS
-- **Frameworks & Libraries**: ReactJS, Firebase, Bootstrap
+- **Languages**: C++, C, JavaScript, Java, Python
+- **Markup & Styling**: HTML, CSS, Tailwind CSS, Bootstrap
+- **Frameworks & Libraries**: ReactJS, Spring Boot, Firebase
 - **Databases**: MySQL, SQLite
+- **Backend & APIs**: REST APIs, Spring Boot, PHP
 - **Version Control**: Git, GitHub
 - **Platforms & Hosting**: GitHub Pages, Vercel, Netlify
-- **IDE & Tools**: VS Code, IntelliJ, XAMPP, phpMyAdmin, Postman
+- **IDE & Tools**: VS Code, IntelliJ IDEA, XAMPP, phpMyAdmin, Postman, NPM
+- **Development Concepts**: OOP, Data Structures & Algorithms, React Router, Context API, Dynamic Routing, Authentication & API Integration
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MYSQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2Ficons%2Fjson.svg&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF6600?style=for-the-badge&logo=xampp&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MYSQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2Ficons%2Fjson.svg&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF6600?style=for-the-badge&logo=xampp&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) [![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 
@@ -49,20 +51,25 @@ I'm a software engineer focused on building clean, user-focused web applications
 - Achieving proficiency in Fullstack development with ReactJS + Spring Boot.
 - Exploring Backend development with Spring Boot.
 
+
 ## 📊 GitHub Stats
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vaishnavi-parodkar&color=blue)
 
-![](https://github-readme-stats.vercel.app/api?username=vaishnavi-parodkar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-parodkar&theme=default&hide_border=false)<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavi-parodkar&theme=default" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaishnavi-parodkar&theme=default" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vaishnavi-parodkar&theme=default&hide_border=false" width="80%" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaishnavi-parodkar&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=vaishnavi-parodkar&limit=5&theme=default&combine_all_yearly_contributions=true)
+[![trophy](https://trophy.ryglcloud.net/?username=vaishnavi-parodkar&theme=flat&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👩‍💻 Open Source Journey  
@@ -95,7 +102,7 @@ I'm a software engineer focused on building clean, user-focused web applications
  
 ## 📫 Let's Connect
 
-I'm keen on collaborating on interesting projects and discussing innovative ideas. Feel free to contact me with [email](mailto:vaishnaviparodkar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-parodkar-4a1b8b28a)!
+I'm keen on collaborating on interesting projects, contributing to open-source, and discussing innovative ideas. Feel free to contact me with [email](mailto:vaishnaviparodkar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-parodkar-4a1b8b28a)!
 
 Together, let's forge ahead and shape the future. 
 
